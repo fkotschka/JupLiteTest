@@ -1,4 +1,8 @@
+numpy
+scipy
+asteval
 bqplot
+uncertainties
 ipycanvas
 ipyleaflet
 ipywidgets>=7.6
